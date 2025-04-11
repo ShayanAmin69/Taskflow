@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "content": "TaskFlow has completely transformed how our team manages projects. The intuitive interface and powerful features have increased our productivity by 40%.",
+      "author": "Sarah Johnson",
+      "position": "Project Manager, TechCorp",
+      "image": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "id": 2,
+      "content": "We've tried many project management tools, but TaskFlow stands out with its simplicity and comprehensive feature set. It's the perfect balance of power and ease of use.",
+      "author": "Michael Chen",
+      "position": "CTO, Innovate Inc.",
+      "image": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "id": 3,
+      "content": "The customer support at TaskFlow is exceptional. They're always responsive and have helped us customize the platform to fit our unique workflow perfectly.",
+      "author": "Emily Rodriguez",
+      "position": "Team Lead, Creative Solutions",
+      "image": "/placeholder.svg?height=80&width=80"
+    },
+    {
+      "id": 4,
+      "content": "Since implementing TaskFlow, we've seen a 30% reduction in project delivery time. The automation features have eliminated many manual processes.",
+      "author": "David Wilson",
+      "position": "Operations Director, Global Systems",
+      "image": "/placeholder.svg?height=80&width=80"
+    }
+  ]
+  
